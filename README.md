@@ -7,13 +7,13 @@ Vehicle recognition using a Single Shot Detector (SSD) in Autonomous Vehicles (A
 <br>
 
 <div align="center">
-  <img src="img/home.PNG" width="65%"><br><br>
+  <img src="img/ppt.PNG" width="65%"><br><br>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="img/single-shot.PNG" width="65%"><br><br>
+  <img src="img/ssd.PNG" width="65%"><br><br>
 </div>
 
 <br>
