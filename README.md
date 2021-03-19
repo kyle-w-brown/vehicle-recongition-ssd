@@ -7,7 +7,7 @@ Vehicle recognition using a Single Shot Detector (SSD) in Autonomous Vehicles (A
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recognition-ssd/master/image/home.PNG"><br><br>
+  <img src="img/home.PNG"><br><br>
 </div>
 
 
