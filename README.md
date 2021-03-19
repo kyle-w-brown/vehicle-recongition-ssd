@@ -30,64 +30,6 @@ Vehicle recognition using a Single Shot Detector (SSD) in Autonomous Vehicles (A
 
 <br>
 
-# SSD300
-Single Shot MultiBox Detector implemented with TensorFlow
-
-## Dependencies ##
-python3.6.1
-* numpy
-* skimage
-* TensorFlow
-* matplotlib
-* OpenCV
-
-## Usage ##
-1. Import required modules
-```
-import tensorflow as tf
-import numpy as np
-
-from util.util import *
-from model.SSD300 import *
-```
-
-2. Load test-image  
-```
-img = load_image('./test.jpg')
-img = img.reshape((300, 300, 3))
-```
-
-3. Start Session  
-```
-with tf.Session() as sess:
-        ssd = SSD300(sess)
-        sess.run(tf.global_variables_initializer())
-        for ep in range(EPOCH):
-            ...
-```
-
-4. Training or Evaluating
-you must just call ssd.eval() !
-```
-...
-
-_, _, batch_loc, batch_conf, batch_loss = ssd.eval(minibatch, actual_data, is_training=True)
-
-...
-```
-
-
-## Test Training ##
-you have to extract data-set from zip files.
-decompress all zip files in datasets/ and move to voc2007/ dir.
-```
-$ ls voc2007/ | wc -l    #  => 4954
-$ ./setup.sh
-$ python train.py
-```
-
-
-
 #  SSD: Single Shot MultiBox Detector
 
 [![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
@@ -231,3 +173,61 @@ We have provided the latest models that are trained from different datasets. To 
    * trainval1: [SSD300*](https://drive.google.com/open?id=0BzKzrI_SkD1_a2NKQ2d1d043VXM), [SSD500](https://drive.google.com/open?id=0BzKzrI_SkD1_X2ZCLVgwLTgzaTQ)
 
 <sup>[1]</sup>We use [`examples/convert_model.ipynb`](https://github.com/weiliu89/caffe/blob/ssd/examples/convert_model.ipynb) to extract a VOC model from a pretrained COCO model.
+
+
+# SSD300 Python
+
+Single Shot MultiBox Detector implemented with TensorFlow
+
+## Dependencies ##
+python3.6.1
+* numpy
+* skimage
+* TensorFlow
+* matplotlib
+* OpenCV
+
+## Usage ##
+1. Import required modules
+```
+import tensorflow as tf
+import numpy as np
+
+from util.util import *
+from model.SSD300 import *
+```
+
+2. Load test-image  
+```
+img = load_image('./test.jpg')
+img = img.reshape((300, 300, 3))
+```
+
+3. Start Session  
+```
+with tf.Session() as sess:
+        ssd = SSD300(sess)
+        sess.run(tf.global_variables_initializer())
+        for ep in range(EPOCH):
+            ...
+```
+
+4. Training or Evaluating
+you must just call ssd.eval() !
+```
+...
+
+_, _, batch_loc, batch_conf, batch_loss = ssd.eval(minibatch, actual_data, is_training=True)
+
+...
+```
+
+
+## Test Training ##
+you have to extract data-set from zip files.
+decompress all zip files in datasets/ and move to voc2007/ dir.
+```
+$ ls voc2007/ | wc -l    #  => 4954
+$ ./setup.sh
+$ python train.py
+```
