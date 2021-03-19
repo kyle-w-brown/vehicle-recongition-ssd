@@ -12,18 +12,18 @@ Vehicle recognition using a Single Shot Detector (SSD) in Autonomous Vehicles (A
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recognition-ssd/master/image/single-shot.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recognition-ssd/master/img/single-shot.PNG"><br><br>
 </div>
 
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recognition-ssd/master/image/snow.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recognition-ssd/master/img/snow.PNG"><br><br>
 </div>
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recognition-ssd/master/image/night.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recognition-ssd/master/img/night.PNG"><br><br>
 </div>
 
 <br>
