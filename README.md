@@ -1,5 +1,8 @@
 # Vehicle Recognition using SSD's for AV's
 
+[![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
+[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+
 Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV's) was created as a final project for CSC 7991: Introduction to Deep Learning. The purpose of this project was to conduct experiments using a SSD to detect vehicles in nighttime, snowy, and drone videos. The goal is to demonstrate the SSD's accuracy in various conditions at varying distances.   
 
 ## Link to PowerPoint with access to videos: [Vehicle Recognition using SSD's for AV's ppt](https://github.com/kyle-w-brown/vehicle-recognition-ssd/blob/main/SSD-Vehicle-Recognition.pptx) 
@@ -31,9 +34,6 @@ Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV'
 <br>
 
 #  SSD: Single Shot MultiBox Detector
-
-[![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
-[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
 By [Wei Liu](http://www.cs.unc.edu/~wliu/), [Dragomir Anguelov](https://www.linkedin.com/in/dragomiranguelov), [Dumitru Erhan](http://research.google.com/pubs/DumitruErhan.html), [Christian Szegedy](http://research.google.com/pubs/ChristianSzegedy.html), [Scott Reed](http://www-personal.umich.edu/~reedscot/), [Cheng-Yang Fu](http://www.cs.unc.edu/~cyfu/), [Alexander C. Berg](http://acberg.com).
 
