@@ -70,7 +70,7 @@ _Note: SSD300* and SSD512* are the latest models. Current code should reproduce 
 Please cite SSD in your publications if it helps your research:
 
     @inproceedings{liu2016ssd,
-      title = {{SSD}: Single Shot MultiBox Detector},
+      title = {SSD: Single Shot MultiBox Detector},
       author = {Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander C.},
       booktitle = {ECCV},
       year = {2016}
