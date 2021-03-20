@@ -2,8 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyle-w-brown/vehicle-recongition-ssd.git/HEAD?filepath=NVIDIA%20SSD%20-%20Notebook)
 
-This notebook was created to update previous model with NVIDIA's SSD. 
-
 ---
 
 
