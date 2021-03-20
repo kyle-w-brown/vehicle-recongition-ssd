@@ -26,7 +26,7 @@ allowfullscreen></iframe>
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow.png" width="60%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow.PNG" width="60%"><br><br>
 </div>
 
 <br>
