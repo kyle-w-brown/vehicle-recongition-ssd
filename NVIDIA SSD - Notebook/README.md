@@ -6,7 +6,6 @@ This notebook was created to update previous model with NVIDIA's SSD.
 
 ---
 
-<br>
 
 ### This notebook requires a GPU runtime to run.
 ### Please select the menu option "Runtime" -> "Change runtime type", select "Hardware Accelerator" -> "GPU" and click "SAVE"
