@@ -1,9 +1,15 @@
+# Single Shot Detector (SSD) NVIDIA Deep Learning Example
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyle-w-brown/vehicle-recongition-ssd.git/HEAD?filepath=NVIDIA%20SSD%20-%20Notebook)
+
+This notebook was created to update previous model with NVIDIA's SSD. 
+
 ### This notebook requires a GPU runtime to run.
 ### Please select the menu option "Runtime" -> "Change runtime type", select "Hardware Accelerator" -> "GPU" and click "SAVE"
 
 ----------------------------------------------------------------------
 
-# SSD
+## SSD
 
 *Author: NVIDIA*
 
