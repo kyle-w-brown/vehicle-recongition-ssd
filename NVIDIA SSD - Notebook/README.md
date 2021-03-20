@@ -9,9 +9,8 @@
 
 **Single Shot MultiBox Detector model for object detection**
 
-_ | _
-- | -
-![alt](https://pytorch.org/assets/images/ssd_diagram.png) | ![alt](https://pytorch.org/assets/images/ssd.png)
+
+![alt](https://pytorch.org/assets/images/ssd_diagram.png) ![alt](https://pytorch.org/assets/images/ssd.png)
 
 
 ```
