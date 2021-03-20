@@ -8,7 +8,7 @@ Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV'
 ## Link to PowerPoint with access to videos: [Vehicle Recognition using SSD's for AV's ppt](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptxx) 
 
 <iframe width="560" height="315"
-src="https://youtu.be/t-bmOthOJxY" 
+src="https://www.youtube.com/embed/t-bmOthOJxY" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
