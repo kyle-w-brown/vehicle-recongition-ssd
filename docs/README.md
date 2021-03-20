@@ -14,7 +14,7 @@ allowfullscreen></iframe>
 <br>
 
 <div align="center">
-  <img src="img/ppt.png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ppt.png" width="85%"><br><br>
 </div>
 
 <br>
