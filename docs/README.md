@@ -20,19 +20,19 @@ allowfullscreen></iframe>
 <br>
 
 <div align="center">
-  <img src="img/ssd.png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd.png" width="85%"><br><br>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="img/snow.PNG" width="60%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow.png" width="60%"><br><br>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="img/night.PNG" width="60%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/night.png" width="60%"><br><br>
 </div>
 
 <br>
