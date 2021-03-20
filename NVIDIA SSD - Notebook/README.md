@@ -12,6 +12,9 @@
 
 ![alt](https://pytorch.org/assets/images/ssd_diagram.png) ![alt](https://pytorch.org/assets/images/ssd.png)
 
+<p align="center"> 
+<img src="https://pytorch.org/assets/images/ssd_diagram.png" width="40%"> <img src="https://pytorch.org/assets/images/ssd.png" width="40%">
+</p>
 
 ```
 import torch
