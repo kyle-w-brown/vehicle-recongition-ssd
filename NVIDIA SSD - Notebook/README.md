@@ -11,7 +11,7 @@
 
 
 <p align="center"> 
-<img src="https://pytorch.org/assets/images/ssd_diagram.png" width="50%"> <img src="https://pytorch.org/assets/images/ssd.png" width="50%">
+<img src="https://pytorch.org/assets/images/ssd_diagram.png" width="45%"> <img src="https://pytorch.org/assets/images/ssd.png" width="45%">
 </p>
 
 ```
