@@ -32,7 +32,7 @@ allowfullscreen></iframe>
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/night.png" width="60%"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/night.PNG" width="60%"><br><br>
 </div>
 
 <br>
