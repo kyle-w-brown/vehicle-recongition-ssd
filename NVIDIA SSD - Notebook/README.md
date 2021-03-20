@@ -10,10 +10,8 @@
 **Single Shot MultiBox Detector model for object detection**
 
 
-![alt](https://pytorch.org/assets/images/ssd_diagram.png) ![alt](https://pytorch.org/assets/images/ssd.png)
-
 <p align="center"> 
-<img src="https://pytorch.org/assets/images/ssd_diagram.png" width="40%"> <img src="https://pytorch.org/assets/images/ssd.png" width="40%">
+<img src="https://pytorch.org/assets/images/ssd_diagram.png" width="50%"> <img src="https://pytorch.org/assets/images/ssd.png" width="50%">
 </p>
 
 ```
