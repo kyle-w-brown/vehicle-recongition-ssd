@@ -6,7 +6,7 @@
 Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV's) was created as a final project for CSC 7991: Introduction to Deep Learning. The purpose of this project was to conduct experiments using a SSD to detect vehicles with bounding boxes in nighttime, snowy, and drone videos. The goal is to demonstrate SSD's capabilities in various conditions at varying distances.   
 
 <p align="center"> 
-<img src="img/night.PNG" width="33%"> <img src="img/drone.PNG" width="33%"> <img src="img/snow.png" width="33%">
+<img src="img/nighttime.PNG" width="33%"> <img src="img/drone.PNG" width="33%"> <img src="img/snow.png" width="33%">
 </p>
 
 ## Link to PowerPoint with access to videos: [Vehicle Recognition using SSD's for AV's ppt](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true) 
