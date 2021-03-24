@@ -1,1 +1,6 @@
-
+theme: jekyll-theme-slate
+title: "Vehicle Recognition using SSD in Autonomous Vehicles (AV's)"
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
