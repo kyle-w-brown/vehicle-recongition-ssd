@@ -9,6 +9,8 @@ Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV'
 <img src="img/nighttime.png" width="33%"> <img src="img/drone.PNG" width="31%"> <img src="img/snow.png" width="32%">
 </p>
 
+# [Visit Project Website](https://kyle-w-brown.github.io/vehicle-recongition-ssd/)
+
 ## Link to PowerPoint with access to videos: [Vehicle Recognition using SSD's for AV's ppt](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true) 
 
 <br>
