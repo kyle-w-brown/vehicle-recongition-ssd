@@ -97,7 +97,7 @@ The main advantages we believe this method will have are:
 
 
 
-### Video Experiment: [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=t-bmOthOJxY)
+## Video Experiment: [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=t-bmOthOJxY)
 
 <br>
 
