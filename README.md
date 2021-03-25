@@ -1,9 +1,5 @@
 # Vehicle Recognition using Single Shot Detector (SSD)
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/nighttime.png" width="33%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone.PNG" width="31%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow.png" width="32%">
-</p>
-
 **[Overview](#overview)** | **[Abstract](#abstract)** | **[Model](#model)** | **[Experiments](#experiments)** | **[Results](#experimental-results)** | **[PowerPoint](#powerpoint)** | **[Conclusion](#conclusion)** 
 
 ---
