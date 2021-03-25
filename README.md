@@ -122,9 +122,6 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-two.PNG" width="45%"><br><br>
 </div>
 
-<p align="center">
-<iframe width="590" height="315" src="https://www.youtube.com/embed/fAo_G2XjxKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=fAo_G2XjxKY)
 
