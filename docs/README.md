@@ -5,7 +5,7 @@
 # Overview
 
 <p align="justify">
-Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV's) was created as a final project for CSC 7991: Introduction to Deep Learning at Wayne State University, Instructor: Dr. Ming Dong. The purpose of this project was to conduct experiments using a SSD to detect vehicles in nighttime, snowy, and drone videos. The goal is to demonstrate the SSD's ability to detect vehicles in various conditions at varying distances.   
+Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV's) was created as a final project for CSC 7991: Introduction to Deep Learning at Wayne State University. The purpose of this project was to conduct experiments using a SSD to detect vehicles in nighttime, snowy, and drone videos. The goal is to demonstrate the SSD's ability to detect vehicles in various conditions at varying distances.   
 </p>
 
 <p align="center"> 
