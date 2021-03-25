@@ -82,6 +82,12 @@ Please cite SSD in your publications if it helps your research:
       year = {2016}
     }
 
+
+
+---
+
+# SSD Model Setup
+
 ### Contents
 1. [Installation](#installation)
 2. [Preparation](#preparation)
@@ -187,7 +193,9 @@ We have provided the latest models that are trained from different datasets. To 
 <sup>[1]</sup>We use [`examples/convert_model.ipynb`](https://github.com/weiliu89/caffe/blob/ssd/examples/convert_model.ipynb) to extract a VOC model from a pretrained COCO model.
 
 
-# SSD300 Python
+---
+
+# SSD300 Python Model Setup
 
 Single Shot MultiBox Detector implemented with TensorFlow
 
