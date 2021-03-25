@@ -88,7 +88,7 @@ The main advantages we believe this method will have are:
 </div>
 
 
-## Video Experiment: [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=t-bmOthOJxY)
+## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=t-bmOthOJxY)
 
 <br>
 
@@ -100,7 +100,7 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked-two.PNG" width="45%"><br><br>
 </div>
 
-**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=0biampSWKNA)
+## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=0biampSWKNA)
 
 <br>
 
@@ -110,7 +110,7 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-two.png" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-three.png" width="45%"><br><br>
 </div>
 
-**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=QVAgJ0P7epY)
+## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=QVAgJ0P7epY)
 
 <br>
 
@@ -126,7 +126,7 @@ The main advantages we believe this method will have are:
 <iframe width="590" height="315" src="https://www.youtube.com/embed/fAo_G2XjxKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=fAo_G2XjxKY)
+## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=fAo_G2XjxKY)
 
 <br>
 
@@ -136,7 +136,7 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-plaza.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-plaza-two.PNG" width="45%"><br><br>
 </div>
 
-**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=vWDNv6RghDU)
+## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=vWDNv6RghDU)
 
 ---
 
