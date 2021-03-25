@@ -22,9 +22,7 @@ Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV'
 Over the past decade, deep neural networks have evolved and now dominate many vision tasks such as image recognition, object detection and semantic segmentation. This is now proving to be very useful since it’s giving computer systems the ability to recognize visual data (video or image) and make decisions accordingly. Many different deep neural architectures are now specialized in accomplishing a main objective. Convolutional neural network (CNN) has been developed to be one of the best networks in image recognition, once the model is built and trained on specific class data, feeding it test data the model will recognize the classes it has learned from the test samples. 
 </p>
 
-<p align="justify">
-The main problem with convolutional neural networks is that they have a difficult time recognizing objects if the input image is taken in poor weather and visual conditions, such as snow, rain and nighttime. Our team researched ways in which this problem can be solved using a Cycle GAN, with the best solution within a 2 week time constraints applying an SSD instead. Since most of our poor weather image conditions relate to driving conditions, our goal is to increase vehicle recognition accuracy and detecting timing in instances where those poor conditions exist beginning with experiments to recognize vehicles in poor conditions. 
-</p>
+
 
 
 ---
