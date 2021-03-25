@@ -7,7 +7,7 @@
 # Overview
 
 <p align="justify">
-Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV's) was created as a final project for CSC 7991: Introduction to Deep Learning. The purpose of this project was to conduct experiments using a SSD to detect vehicles in nighttime, snowy, and drone videos. The goal is to demonstrate the SSD's ability to detect vehicles in various conditions at varying distances. The SSD for this project was implemented from its creators Wei Liu et al., which paper is listed below.   
+Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV's) was created as a final project for CSC 7991: Introduction to Deep Learning. The purpose of this project was to conduct experiments using a SSD to detect vehicles in nighttime, snowy, and drone videos. The goal is to demonstrate the SSD's ability to detect vehicles at varying distances in harsh conditions. The SSD for this project was implemented from its creators Wei Liu et al., which paper, model, and model setup is listed below.   
 </p>
 
 <p align="center"> 
@@ -95,6 +95,10 @@ The main advantages we believe this method will have are:
 <iframe width="590" height="315" src="https://www.youtube.com/embed/t-bmOthOJxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+
+
+### Video Experiment: [![SSD: Experiments](yt.png)](https://www.youtube.com/watch?v=t-bmOthOJxY)
+
 <br>
 
 ## Snow Conditions Experiments
@@ -105,9 +109,7 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked-two.PNG" width="45%"><br><br>
 </div>
 
-<p align="center">
-<iframe width="590" height="315" src="https://www.youtube.com/embed/0biampSWKNA?controls=0&amp;start=110" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-</p>
+**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=0biampSWKNA)
 
 <br>
 
@@ -120,6 +122,11 @@ The main advantages we believe this method will have are:
 <p align="center">
 <iframe width="590" height="315" src="https://www.youtube.com/embed/QVAgJ0P7epY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+
+
+**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=QVAgJ0P7epY)
+
 
 <br>
 
@@ -135,6 +142,10 @@ The main advantages we believe this method will have are:
 <iframe width="590" height="315" src="https://www.youtube.com/embed/fAo_G2XjxKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+
+
+**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=fAo_G2XjxKY)
+
 <br>
 
 ### Parking Lot Drone Experiment
@@ -146,6 +157,10 @@ The main advantages we believe this method will have are:
 <p align="center">
 <iframe width="590" height="315" src="https://www.youtube.com/embed/vWDNv6RghDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+
+
+**Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=vWDNv6RghDU)
 
 ---
 
