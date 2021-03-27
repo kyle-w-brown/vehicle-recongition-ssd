@@ -42,7 +42,12 @@ By [Wei Liu](http://www.cs.unc.edu/~wliu/), [Dragomir Anguelov](https://www.link
 
 ### Introduction
 
-SSD is an unified framework for object detection with a single network. Authors Liu et al, have made the code available to train/evaluate a network for object detection task. For more details, please refer to our [arXiv paper](http://arxiv.org/abs/1512.02325) and our [slide](http://www.cs.unc.edu/~wliu/papers/ssd_eccv2016_slide.pdf). We decided on SSD because it is more fine grained compared to YOLO which is more suited for large object detection in a video or image. SSD is a feedforward convolutional network that uses a fixed number of bounding boxes and scores to attempt to detect VoC object classes within those bounding boxes. The VOC dataset consists of 11,530 training images. Finally a non-maximum suppression step to produce the final detections and remove overlapping bounding boxes. SSD is simple relative to methods that require object proposals because it completely eliminates proposal generation and subsequent pixel or feature resampling stages and encapsulates all computation in a single network. 
+<p align="justify"> 
+SSD is an unified framework for object detection with a single network. Authors Liu et al, have made the code available to train/evaluate a network for object detection task. For more details, please refer to our arXiv paper and slide link below. Our team decided on SSD because it is more fine grained compared to YOLO which is more suited for large object detection in a video or image. SSD is a feedforward convolutional network that uses a fixed number of bounding boxes and scores to attempt to detect VoC object classes within those bounding boxes. The VOC dataset consists of 11,530 training images. Finally a non-maximum suppression step to produce the final detections and remove overlapping bounding boxes. SSD is simple relative to methods that require object proposals because it completely eliminates proposal generation and subsequent pixel or feature resampling stages and encapsulates all computation in a single network. 
+</p>
+
+* [arXiv paper](http://arxiv.org/abs/1512.02325) 
+* [slide](http://www.cs.unc.edu/~wliu/papers/ssd_eccv2016_slide.pdf)
 
 <br>
 
