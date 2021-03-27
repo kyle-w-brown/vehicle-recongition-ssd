@@ -88,7 +88,7 @@ The main advantages we believe this method will have are:
 </div>
 
 
-## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=t-bmOthOJxY)
+[![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=t-bmOthOJxY)
 
 <br>
 
@@ -100,7 +100,7 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked-two.PNG" width="45%"><br><br>
 </div>
 
-## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=0biampSWKNA)
+[![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=0biampSWKNA)
 
 <br>
 
@@ -110,7 +110,7 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-two.png" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-three.png" width="45%"><br><br>
 </div>
 
-## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=QVAgJ0P7epY)
+[![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=QVAgJ0P7epY)
 
 <br>
 
@@ -122,8 +122,7 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-two.PNG" width="45%"><br><br>
 </div>
 
-
-## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=fAo_G2XjxKY)
+[![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=fAo_G2XjxKY)
 
 <br>
 
@@ -133,17 +132,15 @@ The main advantages we believe this method will have are:
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-plaza.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-plaza-two.PNG" width="45%"><br><br>
 </div>
 
-## **Video Experiment:** [![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=vWDNv6RghDU)
+[![SSD: Experiments](img/yt.png)](https://www.youtube.com/watch?v=vWDNv6RghDU)
 
 ---
 
 <br>
 
 # Group 2 PowerPoint
-
-##  [Vehicle Recognition using SSD's for AV's](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true) 
-
-## **Link to MS PowerPoint:** [![SSD: Group 2 PowerPoint](img/ppt.PNG)](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true)
+ 
+[![SSD: Group 2 PowerPoint](img/ppt.PNG)](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ppt.png" width="85%"><br><br>
