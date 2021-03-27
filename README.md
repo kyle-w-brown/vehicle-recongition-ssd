@@ -127,7 +127,7 @@ The main advantages we believe this method will have are:
 
 <br>
 
-### Parking Lot Drone Experiment
+## Parking Lot Drone Experiment
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-plaza.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-plaza-two.PNG" width="45%"><br><br>
