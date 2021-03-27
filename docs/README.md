@@ -67,8 +67,6 @@ _Note: SSD300* and SSD512* are the latest models. Current code should reproduce 
 
 <br>
 
-### **[SSD: Single Shot MultiBox Detector, Liu et al. arVix](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/SSD%20-%20Wei%20Liu%20et%20al%2C%20arVix%202016/1512.02325.pdf)**
-
 <p align="center">
 <iframe width="550" height="550" src="https://nbviewer.jupyter.org/github/kyle-w-brown/vehicle-recongition-ssd/blob/master/SSD%20-%20Wei%20Liu%20et%20al%2C%20arVix%202016/1512.02325.pdf" title="arXiv:1512.02325v5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
