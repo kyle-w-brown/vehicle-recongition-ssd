@@ -81,7 +81,7 @@ The main advantages we believe this method will have are:
 3.	Data Augmentation: 720p video input is resized to 300x300x3 image segments which at a much lower resolution and requires less storage and computing power.  
 
 
-## Nighttime Experiment
+# Nighttime Experiment
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/nighttime.png" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/nighttime-four.png" width="45%"><br><br>
@@ -92,9 +92,9 @@ The main advantages we believe this method will have are:
 
 <br>
 
-## Snow Conditions Experiments
+# Snow Conditions Experiments
 
-### Snow Conditions Vehicles Parked Experiment
+## Snow Conditions Vehicles Parked Experiment
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked-two.PNG" width="45%"><br><br>
@@ -104,7 +104,7 @@ The main advantages we believe this method will have are:
 
 <br>
 
-### Snow Conditions Vehicles Moving Experiment
+## Snow Conditions Vehicles Moving Experiment
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-two.png" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-three.png" width="45%"><br><br>
@@ -114,9 +114,9 @@ The main advantages we believe this method will have are:
 
 <br>
 
-## Drone Experiments 
+# Drone Experiments 
 
-### Aerial Drone Experiment
+## Aerial Drone Experiment
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/drone-two.PNG" width="45%"><br><br>
