@@ -19,8 +19,6 @@ Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV'
 
 ---
 
-<br>
-
 # Abstract
 
 <p align="justify">
@@ -28,8 +26,6 @@ Over the past decade, deep neural networks have evolved and now dominate many vi
 </p>
 
 ---
-
-<br>
 
 # Model
 
@@ -73,8 +69,6 @@ _Note: SSD300* and SSD512* are the latest models. Current code should reproduce 
 
 ---
 
-<br>
-
 # Experiments
 
 <p align="justify">
@@ -86,8 +80,6 @@ The main advantages we believe this method will have are:
 2.	In-network Architecture: All components in our method are within one network and trained in an end-to-end fashion.
 3.	Data Augmentation: 720p video input is resized to 300x300x3 image segments which at a much lower resolution and requires less storage and computing power.  
 
-
-<br>
 
 ## Nighttime Experiment
 
@@ -183,7 +175,6 @@ The main advantages we believe this method will have are:
 
 ---
 
-<br>
 
 # Experimental Results
 
@@ -203,8 +194,6 @@ Our preliminary results using SSD for object detection has exceeded project expe
 </p>
 
 ---
-
-<br>
 
 # Conclusion
 
