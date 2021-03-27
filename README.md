@@ -92,9 +92,9 @@ The main advantages we believe this method will have are:
 
 <br>
 
-# Snow Conditions Experiments
+# Snowy Condition Experiments
 
-## Snow Conditions Vehicles Parked Experiment
+## Snowy Conditions Vehicles Parked Experiment
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked.PNG" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-parked-two.PNG" width="45%"><br><br>
@@ -104,7 +104,7 @@ The main advantages we believe this method will have are:
 
 <br>
 
-## Snow Conditions Vehicles Moving Experiment
+## Snowy Conditions Vehicles Moving Experiment
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-two.png" width="45%"> <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/snow-three.png" width="45%"><br><br>
