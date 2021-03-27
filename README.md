@@ -167,6 +167,34 @@ The main advantages we believe this method will have are:
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-seven.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-eight.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-nine.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-ten.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-eleven.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-twelve.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-thirteen.png" width="85%"><br><br>
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-apps.png" width="85%"><br><br>
 </div>
 
