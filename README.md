@@ -143,7 +143,7 @@ The main advantages we believe this method will have are:
 
 ##  [Vehicle Recognition using SSD's for AV's](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true) 
 
-## **Link to MS PowerPoint:** [![SSD: Group 2 PowerPoint](img/ppt.png)](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true)
+## **Link to MS PowerPoint:** [![SSD: Group 2 PowerPoint](img/ppt.PNG)](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ppt.png" width="85%"><br><br>
