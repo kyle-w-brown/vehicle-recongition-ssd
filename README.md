@@ -253,7 +253,7 @@ We proposed the implementation of a single-shot detection (SSD) for vehicle reco
 ### Installation
 1. Get the code. We will call the directory that you cloned Caffe into `$CAFFE_ROOT`
   ```Shell
-  git clone https://github.com/weiliu89/caffe.git
+  git clone https://github.com/kyle-w-brown/vehicle-recongition-ssd.git
   cd caffe
   git checkout ssd
   ```
