@@ -1,6 +1,6 @@
 # Vehicle Recognition using Single Shot Detector (SSD)
 
-**[Overview](#overview)** &nbsp; | &nbsp; **[Abstract](#abstract)** | **[Model](#model)** | **[Experiments](#experiments)** | **[Results](#experimental-results)** | **[PowerPoint](#powerpoint)** | **[Conclusion](#conclusion)** | **[SSD Setup](#ssd-model-setup)** 
+**[Overview](#overview)** &nbsp; | &nbsp; **[Abstract](#abstract)** &nbsp; | &nbsp; **[Model](#model)** &nbsp; | &nbsp; **[Experiments](#experiments)** &nbsp; | &nbsp; **[Results](#experimental-results)** &nbsp; | &nbsp; **[PowerPoint](#powerpoint)** &nbsp; | &nbsp; **[Conclusion](#conclusion)** &nbsp; | &nbsp; **[SSD Setup](#ssd-model-setup)** 
 
 ---
 
