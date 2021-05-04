@@ -110,7 +110,7 @@ The main advantages we believe this method will have are:
 </div>
 
 <p align="center">
-<iframe width="590" height="315" src="https://www.youtube.com/embed/0biampSWKNA?controls=0&amp;start=110" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0biampSWKNA?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <br>
