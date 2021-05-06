@@ -138,7 +138,7 @@ The main advantages we believe this method will have are:
 
 <br>
 
-# Group 2 PowerPoint
+# PowerPoint
  
 ## **Presentation:** [![SSD: Group 2 PowerPoint](img/ppt.PNG)](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true)
 
