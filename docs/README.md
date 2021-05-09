@@ -82,9 +82,9 @@ Safety comes from the autonomous vehicle being able to detect and respond to man
 </p>
 
 The main advantages we believe this method will have are:
-1.	Real Time Vehicle Detection: Ability to use live feed camera input into cycle GAN and CNN and using onboard CPU and GPU computing to visualize vehicles on the road in real time.
-2.	In-network Architecture: All components in our method are within one network and trained in an end-to-end fashion.
-3.	Data Augmentation: 720p video input is resized to 300x300x3 image segments which at a much lower resolution and requires less storage and computing power.  
+1.	**Real Time Vehicle Detection**: Ability to use live feed camera input into cycle GAN and CNN and using onboard CPU and GPU computing to visualize vehicles on the road in real time.
+2.	**In-network Architecture**: All components in our method are within one network and trained in an end-to-end fashion.
+3.	**Data Augmentation**: 720p video input is resized to 300x300x3 image segments which at a much lower resolution and requires less storage and computing power.  
 
 
 <br>
