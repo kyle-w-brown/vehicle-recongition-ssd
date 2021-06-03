@@ -51,8 +51,9 @@ SSD is an unified framework for object detection with a single network. Authors 
 
 <br>
 
-<img src="http://www.cs.unc.edu/~wliu/papers/ssd.png" alt="SSD Framework" width="600px">
-
+<p align="center"> 
+<img src="http://www.cs.unc.edu/~wliu/papers/ssd.png" width="60%"> 
+</p>
 
 | System | VOC2007 test *mAP* | **FPS** (Titan X) | Number of Boxes | Input resolution
 |:-------|:-----:|:-------:|:-------:|:-------:|
