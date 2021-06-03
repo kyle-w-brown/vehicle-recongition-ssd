@@ -52,7 +52,7 @@ SSD is an unified framework for object detection with a single network. Authors 
 <br>
 
 <p align="center"> 
-<img src="http://www.cs.unc.edu/~wliu/papers/ssd.png" width="60%"> 
+<img src="http://www.cs.unc.edu/~wliu/papers/ssd.png" width="80%"> 
 </p>
 
 | System | VOC2007 test *mAP* | **FPS** (Titan X) | Number of Boxes | Input resolution
@@ -64,7 +64,7 @@ SSD is an unified framework for object detection with a single network. Authors 
 
 
 <p align="center"> 
-<img src="http://www.cs.unc.edu/~wliu/papers/ssd_results.png" width="60%"> 
+<img src="http://www.cs.unc.edu/~wliu/papers/ssd_results.png" width="80%"> 
 </p>
 
 _Note: SSD300* and SSD512* are the latest models. Current code should reproduce these results._
