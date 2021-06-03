@@ -64,7 +64,7 @@ SSD is an unified framework for object detection with a single network. Authors 
 
 
 <p align="center"> 
-<img src="http://www.cs.unc.edu/~wliu/papers/ssd_results.png" width="80%"> 
+<img src="http://www.cs.unc.edu/~wliu/papers/ssd_results.png" width="90%"> 
 </p>
 
 _Note: SSD300* and SSD512* are the latest models. Current code should reproduce these results._
