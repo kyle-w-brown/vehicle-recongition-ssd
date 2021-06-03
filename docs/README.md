@@ -61,7 +61,7 @@ SSD is an unified framework for object detection with a single network. Authors 
 | SSD300* (VGG16) | 77.2 | 46 | 8732 | 300 x 300 |
 | SSD512* (VGG16) | **79.8** | 19 | 24564 | 512 x 512 |
 
-<img src="http://www.cs.unc.edu/~wliu/papers/ssd_results.png" alt="SSD results on multiple datasets" width="50%">
+<img src="http://www.cs.unc.edu/~wliu/papers/ssd_results.png" alt="SSD results on multiple datasets" width="30%">
 
 _Note: SSD300* and SSD512* are the latest models. Current code should reproduce these results._
 
