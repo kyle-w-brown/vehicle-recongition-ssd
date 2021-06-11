@@ -136,68 +136,6 @@ The main advantages we believe this method will have are:
 
 ---
 
-<br>
-
-# PowerPoint
- 
-## **Presentation:** [![SSD: Group 2 PowerPoint](img/ppt.PNG)](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ppt.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-two.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-three.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-four.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-five.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-six.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-seven.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-eight.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-nine.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-ten.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-eleven.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-twelve.png" width="85%"><br><br>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-thirteen.png" width="85%"><br><br>
-</div>
-
-<br>
-
----
-
 
 # Experimental Results
 
@@ -407,3 +345,68 @@ $ ls voc2007/ | wc -l    #  => 4954
 $ ./setup.sh
 $ python train.py
 ```
+
+---
+
+<br>
+
+# PowerPoint
+ 
+## **Presentation:** [![SSD: Group 2 PowerPoint](img/ppt.PNG)](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ppt.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-two.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-three.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-four.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-five.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-six.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-seven.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-eight.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-nine.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-ten.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-eleven.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-twelve.png" width="85%"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/vehicle-recongition-ssd/master/img/ssd-thirteen.png" width="85%"><br><br>
+</div>
+
+<br>
+
+---
+
