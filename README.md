@@ -19,14 +19,6 @@ Vehicle recognition using Single Shot Detector (SSD) in Autonomous Vehicles (AV'
 
 ---
 
-# Abstract
-
-<p align="justify">
-Over the past decade, deep neural networks have evolved and now dominate many vision tasks such as image recognition, object detection and semantic segmentation. This is now proving to be very useful since it’s giving computer systems the ability to recognize visual data (video or image) and make decisions accordingly. Many different deep neural architectures are now specialized in accomplishing a main objective. Convolutional neural network (CNN) has been developed to be one of the best networks in image recognition, once the model is built and trained on specific class data, feeding it test data the model will recognize the classes it has learned from the test samples. 
-</p>
-
----
-
 # Model
 
 ##  SSD: Single Shot MultiBox Detector
