@@ -159,6 +159,38 @@ The main advantages we believe this method will have are:
 
 <br>
 
+
+# Experimental Results
+
+| Conditions | Accuracy |
+|:-------|:-----:|
+| Drone Aerial | 18% |
+| Drone Parking Lot | 82% |
+| Nighttime | 43% |
+| Snow Moving | 44% | 
+| Snow Parked | 17% | 
+
+
+## Summary Experimental Results
+
+<p align="justify">
+Our preliminary results using SSD for object detection has exceeded project expectations. Our observed results include: Snowy – 44% and 16%, Night time – 43%, and Drone – 18% and 82%. GANs and SSDs are still a developing technology which comes with many challenges including: Unproven technology, no economies of scale, and CPU/GPU limitations. 
+</p>
+
+---
+
+<br>
+
+# Conclusion
+
+<p align="justify">
+We proposed the implementation of a single-shot detection (SSD) for vehicle recognition. SSD's provide an advantage for real-time vehicle detection, in-network architecture, and data augmentation that uses on-board computing within one network to resize video images. The SSD, is a fast single-shot object detector for multiple categories. SSD's are a feed-forward convolutional network that uses a fixed number of bounding boxes and scores to detect VoC object classes using bounding boxes. A key feature of our experiments is the use of bounding box outputs attached to multiple feature maps trained from VoC dataset against night time, snowy, and drone videos. The experiment conducted used VOC dataset with SSDs 11,530 training images. The inputs for the experiments were dashcam videos from YouTube tested with CNN using SSD for vehicle box bounding area. With similar technological impacts, GAN's and SSD's are promising for the development of Advanced Driving Assistance Systems (ADAS), military transportation and bomb disposal, and emergency applications. A future direction is to explore its use as part of a system using recurrent neural networks to detect and track objects in video simultaneously.
+</p>
+
+---
+
+<br>
+
 # PowerPoint
 
 ## Link to MS PowerPoint: [Vehicle Recognition using SSD's for AV's](https://github.com/kyle-w-brown/vehicle-recongition-ssd/blob/master/CSC%207991%20Final%20Presentation/SSD-Vehicle-Recognition_Group-2.pptx?raw=true) 
@@ -202,36 +234,6 @@ The main advantages we believe this method will have are:
 
 <br>
 
-# Experimental Results
-
-| Conditions | Accuracy |
-|:-------|:-----:|
-| Drone Aerial | 18% |
-| Drone Parking Lot | 82% |
-| Nighttime | 43% |
-| Snow Moving | 44% | 
-| Snow Parked | 17% | 
-
-
-## Summary Experimental Results
-
-<p align="justify">
-Our preliminary results using SSD for object detection has exceeded project expectations. Our observed results include: Snowy – 44% and 16%, Night time – 43%, and Drone – 18% and 82%. GANs and SSDs are still a developing technology which comes with many challenges including: Unproven technology, no economies of scale, and CPU/GPU limitations. 
-</p>
-
----
-
-<br>
-
-# Conclusion
-
-<p align="justify">
-We proposed the implementation of a single-shot detection (SSD) for vehicle recognition. SSD's provide an advantage for real-time vehicle detection, in-network architecture, and data augmentation that uses on-board computing within one network to resize video images. The SSD, is a fast single-shot object detector for multiple categories. SSD's are a feed-forward convolutional network that uses a fixed number of bounding boxes and scores to detect VoC object classes using bounding boxes. A key feature of our experiments is the use of bounding box outputs attached to multiple feature maps trained from VoC dataset against night time, snowy, and drone videos. The experiment conducted used VOC dataset with SSDs 11,530 training images. The inputs for the experiments were dashcam videos from YouTube tested with CNN using SSD for vehicle box bounding area. With similar technological impacts, GAN's and SSD's are promising for the development of Advanced Driving Assistance Systems (ADAS), military transportation and bomb disposal, and emergency applications. A future direction is to explore its use as part of a system using recurrent neural networks to detect and track objects in video simultaneously.
-</p>
-
----
-
-<br>
 
 # Citing SSD
 
